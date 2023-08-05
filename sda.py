@@ -6,3 +6,4 @@ y = input()
 
 print(y)
 
+print(y)
